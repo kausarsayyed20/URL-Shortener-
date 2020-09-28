@@ -1,0 +1,78 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color:#fff;
+	background-color:#808080;
+	text-align: center;
+	line-height: 1.4em;
+  display: flex;
+  justify-content: center;
+
+  padding-top: 150px;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+h3 {
+  
+  margin-top: 30px;
+}
+
+
+
+code {
+  font-family: monospace;
+  padding: 2px;
+  color: black;
+  background-color: #fff;
+}
+
+
+li {
+  margin-bottom: 0.5em;
+}
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+	color: #2574A9;
+}
+
+form {
+ 
+  border-radius: 5px;
+  margin: 10px auto;
+  padding: 20px;
+  max-width: 600px;
+  background-color: #D3D3D3;
+}
+
+label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+
+input {
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 10px;
+  border: none;
+}
+
+input[type=text] {
+  width: 500px;
+  text-align: center;
+}
+
+input[type=submit]{
+  background-color:	#808080; 
+font-weight: bold;
+color: #fff;
+}
